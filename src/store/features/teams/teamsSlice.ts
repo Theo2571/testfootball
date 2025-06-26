@@ -1,4 +1,3 @@
-// src/store/features/teamsSlice.ts
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import { api } from '@/services/api';
 import { TeamShort } from '@/types/football';
